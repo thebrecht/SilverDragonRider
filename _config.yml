@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://thebrecht.github.com/SilverDragonRider
+title: 銀龍背上的少女
+subtitle: 21世紀的末日，一位騎著銀龍的少女，為了人類最終命運而奮戰
+author: Brecht Huang
 simple_search: http://google.com/search
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
@@ -15,20 +15,20 @@ simple_search: http://google.com/search
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
+subscribe_rss: /SilverDragonRider/atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: mr.brecht@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /
+root: /SilverDragonRider
 permalink: /blog/:year/:month/:day/:title/
 source: source
-destination: public
+destination: public/SilverDragonRider
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
