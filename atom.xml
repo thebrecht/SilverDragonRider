@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[銀龍背上的少女]]></title>
+  <link href="http://thebrecht.github.com/SilverDragonRider/atom.xml" rel="self"/>
+  <link href="http://thebrecht.github.com/SilverDragonRider/"/>
+  <updated>2011-11-06T02:36:02+08:00</updated>
+  <id>http://thebrecht.github.com/SilverDragonRider/</id>
+  <author>
+    <name><![CDATA[Brecht Huang]]></name>
+    <email><![CDATA[mr.brecht@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[楔子]]></title>
+    <link href="http://thebrecht.github.com/SilverDragonRider/blog/2011/11/05/xie-zi/"/>
+    <updated>2011-11-05T16:21:00+08:00</updated>
+    <id>http://thebrecht.github.com/SilverDragonRider/blog/2011/11/05/xie-zi</id>
+    <content type="html"><![CDATA[<p>天空剎那昏暗失色。</p>
+
+<p>數以千計的黑色妖龍突然破雲而出，風馳電掣地狂飆。</p>
+
+<p>破風聲如雷聲般轟然作響、龍鳴怒吼震天欲裂。</p>
+
+<p>在黑色妖霧之中，一隻銀龍特別顯眼，引領隊伍向前飛馳。</p>
+
+<p>那隻銀龍身上站著一名少女。</p>
+
+<p>少女揮舞著手中銀槍指向前方，槍上映射出耀目的光芒。</p>
+
+<p>「目標就在眼前」</p>
+
+<p>群龍悄然無聲，全部望向銀龍背上的少女。</p>
+
+<p>「摧毀不周山」</p>
+
+<p>少女語音一落，妖龍嘶吼更盛，殺氣蒸騰，燃燒了整個天空。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[hello Octopress]]></title>
+    <link href="http://thebrecht.github.com/SilverDragonRider/blog/2011/11/05/hello-octopress/"/>
+    <updated>2011-11-05T14:20:00+08:00</updated>
+    <id>http://thebrecht.github.com/SilverDragonRider/blog/2011/11/05/hello-octopress</id>
+    <content type="html"><![CDATA[<p>這是第一篇用Octopress發表的文章，之後《銀龍背上的少女》將會在這里發表</p>
+]]></content>
+  </entry>
+  
+</feed>
