@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: 其他 | 銀龍背上的少女]]></title>
+  <link href="http://silverdragonrider.net/blog/categories/其他/atom.xml" rel="self"/>
+  <link href="http://silverdragonrider.net/"/>
+  <updated>2011-11-09T23:07:37+08:00</updated>
+  <id>http://silverdragonrider.net/</id>
+  <author>
+    <name><![CDATA[Brecht Huang]]></name>
+    <email><![CDATA[mr.brecht@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[hello Octopress]]></title>
+    <link href="http://silverdragonrider.net/blog/2011/11/05/hello-octopress/"/>
+    <updated>2011-11-05T14:20:00+08:00</updated>
+    <id>http://silverdragonrider.net/blog/2011/11/05/hello-octopress</id>
+    <content type="html"><![CDATA[<p>這是第一篇用Octopress發表的文章，之後《銀龍背上的少女》將會在這里發表</p>
+]]></content>
+  </entry>
+  
+</feed>
