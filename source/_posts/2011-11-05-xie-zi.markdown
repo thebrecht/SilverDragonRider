@@ -3,7 +3,7 @@ layout: post
 title: "楔子"
 date: 2011-11-05 16:21
 comments: true
-categories: 
+categories: 小說
 ---
 天空剎那昏暗失色。
 
